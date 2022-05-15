@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.section-one {
+    background-color: tomato;
+}
+
+.section-two {
+    background-color: steelblue;
+}
+
+.section-three {
+    background-color: crimson;
+}
+
+.section-four {
+    background-color: lime;
+}
+
+.section-five {
+    background-color: grey;
+}
+
+.scene.one {
+    width: 100%;
+    height: 100%;
+  position: fixed;
+    z-index: 999;
+  }
+
+  .dg.ac {
+    z-index: 1000 !important;
+  }
+  
